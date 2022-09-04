@@ -29,7 +29,7 @@
         </ul>
         <main>
             <div id="div_main">     
-                <div id="tres">
+                <div id="div_conjpqimg_conjimg_preco">
                     <ul id="conjpqimg">
                         <li>
                             <a href="#img1-1">
